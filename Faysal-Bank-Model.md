@@ -13,4 +13,4 @@ Commercial bank financial statements break standard corporate 3-statement templa
 Delivered a fully integrated forecasting model where changes to macroeconomic inputs or deposit growth scales dynamically across all three sheets while maintaining an automated "Error Check" row perfectly tied to zero. 
 
 ### 📸 Model Architecture Snapshot
-`![Model Layout](your-image-name.png)`)*
+<img width="1462" height="522" alt="image" src="https://github.com/user-attachments/assets/7a986c0f-620a-48ca-8d06-d472f017d08a" />
