@@ -17,5 +17,5 @@ Created an executive-level Power BI dashboard that translates complex regional d
 
 ---
 ### 🔗 Live Interactive Link
- https://tinyurl.com/Ghazi-BI
+ [Click Here to Launch Interactive Dashboard](https://tinyurl.com/Ghazi-BI)
  
