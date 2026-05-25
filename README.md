@@ -29,5 +29,9 @@ Minimalist dashboard tracking my financial engines, econometric forecasting mode
   * *Description:* A comparative Power BI dashboard visualizing macro indicators, trade vulnerabilities, and volatility spreads across South Asian regional economies. 
   * *Tech Stack:* Power BI, DAX, Data Warehousing, Visual Storytelling.
 
+---
 
+* **[Global Superstore Analytics — Profitability Leak Dashboard](./Global-Superstore-Analytics.md)**
+  * *Description:* Multi-page executive Power BI dashboard diagnosing margin erosion across global supply chain networks. Pinpoints logistics inefficiencies and discount leaks via high-density KPI tables and regional matrix cross-filtering.
+  * *Tech Stack:* Power BI, DAX, Corporate Performance Management, Supply Chain Analytics.
 
