@@ -17,5 +17,5 @@ The model successfully isolated the structural impact of resource gaps: **the ne
 
 ---
 ### 🔗 Research Documentation
-* 📄 **![Download Full Research Paper PDF](./Business-Research-Project-FINAL.pdf)
+* 📄 **[Access Full Research Paper PDF](./Business-Research-Project-FINAL.pdf)**
   
